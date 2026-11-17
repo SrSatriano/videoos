@@ -1,0 +1,13 @@
+.git
+.venv
+.npm-cache
+.pip-cache
+**/__pycache__
+**/.pytest_cache
+backend/.pytest_cache
+**/.ruff_cache
+frontend/node_modules
+frontend/dist
+data
+Planejamento
+*.log

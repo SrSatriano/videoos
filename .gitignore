@@ -1,0 +1,16 @@
+data/
+.env
+.venv/
+.venv_broken_*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.npm-cache/
+.pip-cache/
+dist/
+build/
+.tmp/
+.DS_Store
+*.log
